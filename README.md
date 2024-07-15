@@ -1,5 +1,7 @@
 # Project UAS Komputasi Numerik
 
-Nama: Ardian Setya Pradana\n
-NIM: A11.2022.14596\n
+Nama: Ardian Setya Pradana
+
+NIM: A11.2022.14596
+
 Mata Kuliah: Komputasi Numerik
